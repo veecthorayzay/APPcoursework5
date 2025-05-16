@@ -17,11 +17,20 @@ public class Mechanic implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("Mechanic thread started: " + Thread.currentThread().getName());
+        String threadName = Thread.currentThread().getName();
+        System.out.println("Mechanic thread started: " + threadName);
+
         Robot r = repairLine.getNextRobot();
         if (r != null) {
+            System.out.println("[" + threadName + "] Repairing robot: " + r);
+
             arena.repair(r);
+
+            System.out.println("[" + threadName + "] Finished repairing robot: " + r);
+
             bench.addRobot(r);
+        } else {
+            System.out.println("[" + threadName + "] No robot to repair.");
         }
     }
 }

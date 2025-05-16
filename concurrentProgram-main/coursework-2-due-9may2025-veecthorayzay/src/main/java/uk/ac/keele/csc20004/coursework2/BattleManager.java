@@ -16,6 +16,7 @@ public class BattleManager implements Runnable {
         CombatPair pair = arena.getOpponents();
         if (pair == null) return;
 
+        System.out.println("Combat started between " + pair);
         pair.fight();
 
         arena.processResult(pair.getRobot1());
