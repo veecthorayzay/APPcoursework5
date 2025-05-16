@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'c:/Users/Carter/Downloads/APPcoursework5/concurrentProgram-main/coursework-2-due-9may2025-veecthorayzay/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/Carter/Downloads/APPcoursework5/concurrentProgram-main/coursework-2-due-9may2025-veecthorayzay/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Coursework component 2 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'c:/Users/Carter/Downloads/APPcoursework5/concurrentProgram-main/coursework-2-due-9may2025-veecthorayzay/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Coursework component 2 1.0 API'
+uk.ac.keele.csc20004
+uk.ac.keele.csc20004.coursework2
+uk.ac.keele.csc20004.robots
+uk.ac.keele.csc20004.robots.parts
+uk.ac.keele.csc20004.sample
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\src\main\java = 1747389209711
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\allclasses-index.html = 1747391157706
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\allpackages-index.html = 1747391157708
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\constant-values.html = 1747391157546
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\element-list = 1747391157491
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\help-doc.html = 1747391157749
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\index-all.html = 1747391157739
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\index.html = 1747391157686
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\member-search-index.js = 1747391157713
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\module-search-index.js = 1747391157709
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\overview-summary.html = 1747391157743
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\overview-tree.html = 1747391157682
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\package-search-index.js = 1747391157710
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\search.html = 1747391157741
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\tag-search-index.js = 1747391157714
+c:\Users\Carter\Downloads\APPcoursework5\concurrentProgram-main\coursework-2-due-9may2025-veecthorayzay\target\reports\apidocs\type-search-index.js = 1747391157712
